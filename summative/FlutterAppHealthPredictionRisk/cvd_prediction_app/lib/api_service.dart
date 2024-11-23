@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class MyApiService {
-  final String apiUrl = 'https://78a5-102-0-13-76.ngrok-free.app/predict';
+  final String apiUrl = 'https://8915-102-0-13-76.ngrok-free.app/predict';
 
   Future<String> predictHealthRisk(Map<String, dynamic> data) async {
     final response = await http.post(

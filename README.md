@@ -10,7 +10,7 @@
 4. Run `flutter run` to start the app.
 
 ## Video Demo
-- [YouTube Video Demo](https://your-video-url) (Replace with your actual video URL)
+- [YouTube Video Demo](https://youtu.be/gSmdsRUJAcU) 
 
 
 # Health Risk Prediction Flutter App
