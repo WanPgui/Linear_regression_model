@@ -1,4 +1,4 @@
 Flask==2.2.2
 numpy==1.23.1
 joblib==1.1.0
-scikit-learn==1.1.2  # If you're using scikit-learn for your model
+scikit-learn==1.1.2  
