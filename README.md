@@ -1,7 +1,7 @@
 # CVD Prediction Model
 
 ## API Endpoint
-- **URL**: [https://e325-34-67-145-129.ngrok-free.app/predict](https://e325-34-67-145-129.ngrok-free.app/predict)
+- **URL**: [https://8915-102-0-13-76.ngrok-free.app/predict](https://8915-102-0-13-76.ngrok-free.app/predict)
 
 ## How to Run the Mobile App
 1. Clone the repository.
