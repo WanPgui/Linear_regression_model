@@ -1,0 +1,22 @@
+name:  cvd_prediction_app # Replace with your project name
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"  # Adjust the SDK version as needed
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2  # Add the http package (check for the latest version on pub.dev)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # Add your asset paths here if you have any
